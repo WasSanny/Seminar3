@@ -2,8 +2,8 @@
 // показывает диапозон возможных координат точек
 // в этой четверти (x, y)
 
-Console.OutputEncoding = System.Text.Encoding.UTF8; // для знака
-Console.InputEncoding = System.Text.Encoding.UTF8;  // бесконечности!
+//Console.OutputEncoding = System.Text.Encoding.UTF8; // для знака
+//Console.InputEncoding = System.Text.Encoding.UTF8;  // бесконечности!
 
 Console.WriteLine("Введите номер четверти: ");
 int GetQuerter = int.Parse(Console.ReadLine());
